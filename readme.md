@@ -12,3 +12,13 @@ The Student Record System is a simple system for managing student information. I
 - Add and update course information for each student.
 - Record and update student grades for each course.
 - Calculate the GPA (Grade Point Average) for each student.
+
+# To Run file
+
+- Run the file in any code editor
+- Run the exe file and then enter the data in the console acooringly and the display the file
+- to close the app;icatioon close the console
+
+# Contributer
+- github - nawaid2003
+- email - nawaidwork@gmail.com
