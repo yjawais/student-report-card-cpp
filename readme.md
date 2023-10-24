@@ -20,4 +20,5 @@ The Student Record System is a simple system for managing student information. I
 - to close the app;icatioon close the console
 
 # Contributer
-- github- nawaid2003
+- github - nawaid2003
+- email - nawaidwork@gmail.com
