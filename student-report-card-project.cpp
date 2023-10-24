@@ -38,6 +38,9 @@ void student::calculate()
 	else
 		grade='F';
 }
+//***************************************************************
+//                   FUNCTION TO GET STUDENT DATA
+//****************************************************************
 
 void student::getdata()
 {
@@ -58,6 +61,9 @@ void student::getdata()
 	cin>>cs_marks;
 	calculate();
 }
+//***************************************************************
+//                   FUNCTION TO SHOW STUDENT DATA
+//****************************************************************
 
 void student::showdata() const
 {
