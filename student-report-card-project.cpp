@@ -77,6 +77,9 @@ void student::showdata() const
 	cout<<"\nPercentage of student is  :"<<per;
 	cout<<"\nGrade of student is :"<<grade;
 }
+//***************************************************************
+//            FUNCTION TO SHOW TABULAR STUDENT DATA
+//****************************************************************
 
 void student::show_tabular() const
 {
